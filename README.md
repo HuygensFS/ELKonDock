@@ -1,4 +1,4 @@
-# ELK Docker
+# ELKonDock
 
 Docker deployment of ELK Stack
 
