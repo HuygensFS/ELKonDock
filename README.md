@@ -20,3 +20,6 @@ To obtain the certs used by logstash (to configure beats), run:
 ```
 ./get_certs.sh
 ```
+
+## References
+[Elastic](https://github.com/elastic/elasticsearch)
