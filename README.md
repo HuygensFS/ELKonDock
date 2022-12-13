@@ -4,6 +4,11 @@ Docker deployment of ELK Stack
 
 ## Setup
 
+Change virtual memory size on host:
+```
+sudo sysctl -w vm.max_map_count=262144
+```
+
 To start the server run:
 ```
 docker compose up -d
